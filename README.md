@@ -30,7 +30,7 @@ You can find me at:
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40" alt="Jest" title="Jest" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-plain.svg" width="40" title="Webpack" alt="Webpack"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" alt="Docker"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" title="Heroku" alt="Heroku"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS" alt="AWS"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" title="Firebase" alt="Firebase"/>
 </div>
 
